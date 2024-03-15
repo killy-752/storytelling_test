@@ -1,0 +1,27 @@
+body 
+{
+    background-color: green;
+}
+
+.content
+{width:70%;
+    
+    margin:auto;
+    margin-top:15%;
+}
+
+.content div
+{display:inline}
+
+p{
+    font-size: 24px;
+    display:inline;
+    transition-duration:1s
+}
+
+form{
+    font-size: 24px;
+    display:inline;
+    transition-duration:0.5s;
+}
+
